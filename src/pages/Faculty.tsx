@@ -24,15 +24,15 @@ const Faculty: React.FC = () => {
   const facultyMembers: FacultyMember[] = [
     {
       id: 1,
-      name: 'Dr. Sarah Johnson',
-      designation: 'Head Mistress',
+      name: 'Mrs. M. Syamala Devi',
+      designation: 'GHM, PM SHRI ZPHS Raghudevapuram',
       department: 'Administration',
       experience: '20+ years',
-      qualifications: ['Ph.D. in Education', 'M.Ed. Educational Leadership', 'B.Ed. Secondary Education'],
-      bio: 'Dr. Sarah Johnson brings over two decades of educational leadership experience. She is passionate about fostering an inclusive learning environment and driving academic excellence through innovative teaching methodologies.',
-      email: 'sarah.johnson@excellenceacademy.edu',
+      qualifications: ['M.Sc in Zoology', 'M.A. in English','B.Ed. Secondary Education'],
+      bio: 'M. Syamala Devi brings over two decades of educational leadership experience. She is passionate about fostering an inclusive learning environment and driving academic excellence through innovative teaching methodologies.',
+      email: 'msd@gmail.com',
       phone: '+1 (555) 123-4567',
-      image: 'https://images.pexels.com/photos/3184454/pexels-photo-3184454.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/images/ghm_pic.jpg',
       specializations: ['Educational Leadership', 'Curriculum Development', 'Student Development'],
       isHeadMistress: true
     },

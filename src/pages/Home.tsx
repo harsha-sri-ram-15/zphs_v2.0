@@ -50,10 +50,16 @@ const Home: React.FC<HomeProps> = ({ setCurrentPage }) => {
       description: 'East Godavari'
     },
     {
+      name: 'Sri B.Gowri Sri Shankar',
+      title: 'Academic Monitoring Officer Samgra Siksha',
+      image: '/images/gowri_shankar.jpg',
+      description: 'East Godavari'
+    },
+    {
       name: 'Smt M. Syamala Devi',
-      title: 'Guzzated Head Mistress',
+      title: 'Gazatted Head Mistress',
       image: '/images/ghm_pic.jpg',
-      description: 'ZPHS Raghudevapuram'
+      description: 'PM SHRI ZPHS Raghudevapuram'
     }
 
   ];
