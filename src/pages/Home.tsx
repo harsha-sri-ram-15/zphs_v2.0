@@ -38,16 +38,16 @@ const Home: React.FC<HomeProps> = ({ setCurrentPage }) => {
       description: 'Government of Andhra Pradesh'
     },
     {
-      name: 'Smt S.Subhashini',
-      title: 'Additional Project Co ordinator SS',
-      image: '/images/subhashini.jpg',
-      description: 'EAST GODAVARI'
-    },
-    {
       name: 'Sri K. Vasudeva Rao',
       title: 'District Educational Officer',
       image: '/images/deo_pic.jpeg',
       description: 'East Godavari'
+    },
+    {
+      name: 'Smt S.Subhashini',
+      title: 'Additional Project Co ordinator SS',
+      image: '/images/subhashini.jpg',
+      description: 'EAST GODAVARI'
     },
     {
       name: 'Sri B.Gowri Sri Shankar',

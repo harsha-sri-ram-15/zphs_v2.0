@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
                 <Phone className="h-5 w-5 text-green-400 mr-3" />
                 <div>
                   <p className="text-gray-300">+91 123 456 7890</p>
-                  <p className="text-gray-400 text-sm">Mon - Fri, 8:00 AM - 5:00 PM</p>
+                  <p className="text-gray-400 text-sm">Mon - Fri, 9:15 AM - 4:00 PM</p>
                 </div>
               </div>
               <div className="flex items-center">
@@ -75,18 +75,17 @@ const Footer: React.FC = () => {
             <div>
               <h4 className="text-lg font-semibold mb-4">School Hours</h4>
               <div className="space-y-2 text-gray-300">
-                <p><span className="font-medium">Regular Classes:</span> 8:00 AM - 5:00 PM</p>
-                <p><span className="font-medium">Lunch Break:</span> 12:30 PM - 1:30 PM</p>
-                <p><span className="font-medium">Office Hours:</span> 8:00 AM - 5:00 PM</p>
+                <p><span className="font-medium">Regular Classes:</span> 9:15 AM - 4:00 PM</p>
+                <p><span className="font-medium">Lunch Break:</span> 12:15 PM - 1:05 PM</p>
+                <p><span className="font-medium">Office Hours:</span> 9:15 AM - 4:00 PM</p>
               </div>
             </div>
             
             <div>
               <h4 className="text-lg font-semibold mb-4">Recognition</h4>
               <div className="space-y-2 text-gray-300">
-                <p>🏆 National Blue Ribbon School</p>
-                <p>🌟 State Excellence in Education</p>
-                <p>🎓 College Readiness Certified</p>
+                <p>🏆 Swachha Vidyalay Puraskar</p>
+                <p>🌟 Best PMSHRI School of District</p>
               </div>
             </div>
           </div>
